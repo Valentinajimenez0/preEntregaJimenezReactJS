@@ -1,5 +1,5 @@
 import CartWidget from "./CartWidget/CartWidget"
-
+import "./css/estilos.css"
 function NavBar() {
     return (
         <div>
